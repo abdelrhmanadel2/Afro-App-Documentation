@@ -13,4 +13,4 @@ Report Status split to:
 
 Both Open and pending reports can be edited.
 
-To show rerort details click on report card.
+<video src="./src/siteeng/create daily report.mp4">
